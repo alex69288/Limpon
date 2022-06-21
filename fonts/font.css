@@ -1,0 +1,18 @@
+@font-face {
+  font-family: 'EncodeSansSC-CondensedThin';
+  src: url('../fonts/EncodeSansSC-CondensedThin.svg#EncodeSansSC-CondensedThin') format('svg'),
+       url('../fonts/EncodeSansSC-CondensedThin.ttf') format('truetype'),
+       url('../fonts/EncodeSansSC-CondensedThin.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'EncodeSansSC';
+  src: url('../fonts/EncodeSansSC.eot');
+  src: url('../fonts/EncodeSansSC.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/EncodeSansSC.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
