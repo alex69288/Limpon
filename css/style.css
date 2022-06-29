@@ -20,6 +20,9 @@ h1 {
   color: #6e7ea9;
   text-transform: uppercase;
   font-weight: 700;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
 }
 
 .btn-primary {
@@ -35,8 +38,8 @@ h1 {
 }
 
 .btn-primary:hover {
-  background-color: #fff;
   color: #1085e4;
+  background-color: #fff;
 }
 
 .btn-secondary {
@@ -47,12 +50,12 @@ h1 {
   text-transform: uppercase;
   background-color: #cbdbe8;
   border: 1px solid #cbdbe8;
-  padding: 21px 40px;
+  padding: 20px 40px;
   border-radius: 30px;
 }
 
 .btn-secondary:hover {
-  background-color: #fff;
+  background-color: #fff; 
 }
 
 .btn-free {
